@@ -1,6 +1,8 @@
 ### Hi there
 ![](/header.png)
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=przdtl&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
 <!--
 **przdtl/przdtl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
