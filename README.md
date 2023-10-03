@@ -1,6 +1,4 @@
-### Hi there
-![](/header.png)
-
+### Hi there Timo
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=przdtl&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <!--
