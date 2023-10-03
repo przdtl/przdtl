@@ -1,4 +1,5 @@
-### Hi there Timo
+# Hi there Timo
+### My LeetCode stats
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=przdtl&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <!--
