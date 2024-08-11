@@ -3,7 +3,7 @@
 [![Leetcode Stats](https://leetcard.jacoblin.cool/przdtl?border=0&radius=20&ext=heatmap&theme=nord)](https://leetcode.com/przdtl)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-198%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-114-blue)
 
@@ -12,8 +12,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 180 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -27,18 +25,18 @@
 🕑︎ Time Zone: Asia/Irkutsk
 
 💬 Programming Languages: 
-Python                   14 hrs 58 mins      █████████████████████████   99.88 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Python                   16 hrs 34 mins      █████████████████████████   99.89 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 59 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 36 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-androxine                14 hrs 47 mins      █████████████████████████   98.69 % 
-gym-helper-docker        11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+androxine                16 hrs 24 mins      █████████████████████████   98.82 % 
+gym-helper-docker        11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 💻 Operating System: 
-Windows                  14 hrs 59 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -51,5 +49,5 @@ JavaScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 10/08/2024 20:19:40 UTC
+ Last Updated on 11/08/2024 20:19:58 UTC
 <!--END_SECTION:waka-->
