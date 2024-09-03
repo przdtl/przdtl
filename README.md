@@ -3,17 +3,17 @@
 [![Leetcode Stats](https://leetcard.jacoblin.cool/przdtl?border=0&radius=20&ext=heatmap&theme=nord)](https://leetcode.com/przdtl)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-269%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-54.4%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-73.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 198 Contributions in the Year 2024
+> 🏆 200 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -27,20 +27,20 @@
 🕑︎ Time Zone: Asia/Novosibirsk
 
 💬 Programming Languages: 
-Python                   13 hrs 22 mins      ███████████████████████░░   92.66 % 
-Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-YAML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-Bash                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Python                   14 hrs 53 mins      ███████████████████░░░░░░   77.85 % 
+YAML                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+JavaScript               1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Docker                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 26 mins      █████████████████████████   100.00 % 
+VS Code                  19 hrs 8 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-androxine                14 hrs 26 mins      █████████████████████████   100.00 % 
+androxine                19 hrs 8 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  14 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -53,5 +53,5 @@ JavaScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 02/09/2024 20:22:25 UTC
+ Last Updated on 03/09/2024 20:21:35 UTC
 <!--END_SECTION:waka-->
