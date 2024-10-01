@@ -3,17 +3,17 @@
 [![Leetcode Stats](https://leetcard.jacoblin.cool/przdtl?border=0&radius=20&ext=heatmap&theme=nord)](https://leetcode.com/przdtl)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-392%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-390%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-81.3%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-82.1%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 217 Contributions in the Year 2024
+> 🏆 218 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -27,21 +27,21 @@
 🕑︎ Time Zone: Asia/Novosibirsk
 
 💬 Programming Languages: 
-JavaScript               14 hrs 53 mins      ███████████░░░░░░░░░░░░░░   43.31 % 
-Python                   11 hrs 24 mins      ████████░░░░░░░░░░░░░░░░░   33.21 % 
-YAML                     3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-Nginx configuration file 2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-Other                    1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+JavaScript               16 hrs 41 mins      ████████████░░░░░░░░░░░░░   48.39 % 
+Python                   10 hrs 2 mins       ███████░░░░░░░░░░░░░░░░░░   29.12 % 
+YAML                     3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Nginx configuration file 2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+Docker                   56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 
 🔥 Editors: 
-VS Code                  34 hrs 22 mins      █████████████████████████   100.00 % 
+VS Code                  34 hrs 29 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-androxine                27 hrs 33 mins      ████████████████████░░░░░   80.18 % 
-medvedev_test            6 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+androxine                27 hrs 40 mins      ████████████████████░░░░░   80.24 % 
+medvedev_test            6 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
 
 💻 Operating System: 
-Windows                  34 hrs 22 mins      █████████████████████████   100.00 % 
+Windows                  34 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -54,5 +54,5 @@ JavaScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 30/09/2024 20:23:33 UTC
+ Last Updated on 01/10/2024 20:23:21 UTC
 <!--END_SECTION:waka-->
