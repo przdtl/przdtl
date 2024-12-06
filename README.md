@@ -3,7 +3,7 @@
 [![Leetcode Stats](https://leetcard.jacoblin.cool/przdtl?border=0&radius=20&ext=heatmap&theme=nord)](https://leetcode.com/przdtl)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-524%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-531%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -21,28 +21,6 @@
  > 
 > 🔑 8 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Novosibirsk
-
-💬 Programming Languages: 
-Python                   19 hrs 5 mins       ████████████████████████░   95.21 % 
-HTML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-Other                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-Bash                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-
-🔥 Editors: 
-VS Code                  20 hrs 3 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-train_notifier           20 hrs 3 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  20 hrs 3 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -54,5 +32,5 @@ C++                      3 repos             ████░░░░░░░�
 
 
 
- Last Updated on 05/12/2024 20:26:33 UTC
+ Last Updated on 06/12/2024 20:25:57 UTC
 <!--END_SECTION:waka-->
