@@ -21,6 +21,24 @@
  > 
 > 🔑 8 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Novosibirsk
+
+💬 Programming Languages: 
+Python                   27 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  27 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+leetcode                 27 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  27 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -32,5 +50,5 @@ C++                      3 repos             ████░░░░░░░�
 
 
 
- Last Updated on 13/12/2024 20:25:47 UTC
+ Last Updated on 14/12/2024 20:23:42 UTC
 <!--END_SECTION:waka-->
