@@ -13,30 +13,14 @@
 
 > 📦 16.0 kB Used in GitHub's Storage 
  > 
+> 🏆 240 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
  > 
 > 🔑 8 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Novosibirsk
-
-💬 Programming Languages: 
-Python                   3 hrs 47 mins       █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  3 hrs 47 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-leetcode                 3 hrs 47 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  3 hrs 47 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -48,5 +32,5 @@ C++                      3 repos             ████░░░░░░░�
 
 
 
- Last Updated on 15/12/2024 20:24:00 UTC
+ Last Updated on 16/12/2024 20:26:19 UTC
 <!--END_SECTION:waka-->
