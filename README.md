@@ -17,9 +17,9 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 9 Public Repositories 
  > 
-> 🔑 8 Private Repositories 
+> 🔑 9 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -50,5 +50,5 @@ C++                      3 repos             ████░░░░░░░�
 
 
 
- Last Updated on 13/01/2025 20:23:09 UTC
+ Last Updated on 14/01/2025 20:22:38 UTC
 <!--END_SECTION:waka-->
