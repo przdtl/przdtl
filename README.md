@@ -3,7 +3,7 @@
 [![Leetcode Stats](https://leetcard.jacoblin.cool/przdtl?border=0&radius=20&ext=heatmap&theme=nord)](https://leetcode.com/przdtl)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-540%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-542%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -27,16 +27,19 @@
 🕑︎ Time Zone: Asia/Novosibirsk
 
 💬 Programming Languages: 
-Markdown                 2 hrs 19 mins       █████████████████████████   100.00 % 
+Markdown                 3 hrs 1 min         ████████████████████████░   95.21 % 
+Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
 
 🔥 Editors: 
-Obsidian                 2 hrs 19 mins       █████████████████████████   100.00 % 
+Obsidian                 3 hrs 1 min         ████████████████████████░   95.21 % 
+VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 19 mins       █████████████████████████   100.00 % 
+Unknown Project          3 hrs 1 min         ████████████████████████░   95.21 % 
+leetcode                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
 
 💻 Operating System: 
-Windows                  2 hrs 19 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -50,5 +53,5 @@ C++                      3 repos             ████░░░░░░░�
 
 
 
- Last Updated on 22/01/2025 20:23:28 UTC
+ Last Updated on 23/01/2025 20:22:47 UTC
 <!--END_SECTION:waka-->
