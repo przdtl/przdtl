@@ -3,7 +3,7 @@
 [![Leetcode Stats](https://leetcard.jacoblin.cool/przdtl?border=0&radius=20&ext=heatmap&theme=nord)](https://leetcode.com/przdtl)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-564%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-568%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -12,8 +12,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 16.0 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -27,19 +25,19 @@
 🕑︎ Time Zone: Asia/Novosibirsk
 
 💬 Programming Languages: 
-Markdown                 12 hrs 36 mins      ██████████████░░░░░░░░░░░   57.30 % 
-Python                   9 hrs 24 mins       ███████████░░░░░░░░░░░░░░   42.70 % 
+Markdown                 12 hrs 4 mins       ███████████████░░░░░░░░░░   60.63 % 
+Python                   7 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   39.37 % 
 
 🔥 Editors: 
-Obsidian                 12 hrs 36 mins      ██████████████░░░░░░░░░░░   57.30 % 
-VS Code                  9 hrs 24 mins       ███████████░░░░░░░░░░░░░░   42.70 % 
+Obsidian                 12 hrs 4 mins       ███████████████░░░░░░░░░░   60.63 % 
+VS Code                  7 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   39.37 % 
 
 🐱‍💻 Projects: 
-Unknown Project          12 hrs 36 mins      ██████████████░░░░░░░░░░░   57.30 % 
-leetcode                 9 hrs 24 mins       ███████████░░░░░░░░░░░░░░   42.70 % 
+Unknown Project          12 hrs 4 mins       ███████████████░░░░░░░░░░   60.63 % 
+leetcode                 7 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   39.37 % 
 
 💻 Operating System: 
-Windows                  22 hrs 1 min        █████████████████████████   100.00 % 
+Windows                  19 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -53,5 +51,5 @@ C++                      3 repos             ████░░░░░░░�
 
 
 
- Last Updated on 01/02/2025 20:22:11 UTC
+ Last Updated on 02/02/2025 20:20:41 UTC
 <!--END_SECTION:waka-->
