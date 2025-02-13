@@ -3,8 +3,6 @@
 [![Leetcode Stats](https://leetcard.jacoblin.cool/przdtl?border=0&radius=20&ext=heatmap&theme=nord)](https://leetcode.com/przdtl)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-595%20hrs%2053%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-193.2%20thousand%20lines%20of%20code-blue)
@@ -41,9 +39,8 @@ pgAdmin4                 16 mins             ░░░░░░░░░░░�
 MicrosoftExcel           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🐱‍💻 Projects: 
-me                       13 hrs 45 mins      ███████████████░░░░░░░░░░   61.32 % 
+me                       16 hrs 36 mins      ███████████████████░░░░░░   74.07 % 
 leetcode                 5 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-Unknown Project          2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
 
 💻 Operating System: 
 Windows                  22 hrs 25 mins      █████████████████████████   100.00 % 
@@ -60,5 +57,5 @@ C++                      3 repos             ████░░░░░░░�
 
 
 
- Last Updated on 12/02/2025 20:23:39 UTC
+ Last Updated on 13/02/2025 20:23:27 UTC
 <!--END_SECTION:waka-->
